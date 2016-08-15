@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherForecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_detail_">Detail_Activity</string>
+    <string name="prefs_location_key" translatable="false">location</string>
+    <string name="prefs_location_title">Location</string>
+    <string name="prefs_location_default_value" translatable="false">500044</string>
+    <string name="prefs_list_label">Pick Your Units</string>
+    <string name="prefs_units_key">Units</string>
+    <string name="prefs_units_default_value">celsius</string>
+    <string name="prefs_units_imperial">fahrenheit</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="prefs_units_entries">
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </array>
+
+    <array name="prefs_units_entry_values">
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </array>
+</resources>

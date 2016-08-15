@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/options_clear"
+        android:title="@string/options_clear">
+    </item>
+    <item
+        android:id="@+id/options_exit"
+        android:title="@string/options_exit">
+    </item>
+</menu>
+<!-- From: file:/C:/Users/Messi10/AndroidStudioProjects/AndroidPushNotificationsUsingGCM/app/src/main/res/menu/options_menu.xml -->
